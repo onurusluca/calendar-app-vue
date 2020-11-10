@@ -1,2 +1,2 @@
-# calendar-app-vue
-Kalendar - A calendar with a todo!
+# Kalendar
+Kalendar - A calendar with a todo. Uses Firebase database.
